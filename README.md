@@ -57,6 +57,7 @@ Path: Desktop/addTest.c
 To compile and run program:
 
 cd Desktop
+
 #OPTIONAL if you want to input your own custom numbers
 
 nano addTest.c
