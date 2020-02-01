@@ -10,11 +10,15 @@ cs3753_add.c
 
 Path: /home/kernel/linux-hwe-4.15.0/arch/kernel/cs3753_add.c
 
+
+
 Makefile
 
 -Contains the objects that should be created, whether it is a built-in command or module
 
 Path: /home/kernel/linux-hwe-4.15.0/arch/kernel/Makefile
+
+
 
 syscall_64.tbl
 
@@ -22,11 +26,15 @@ syscall_64.tbl
 
 Path: /home/kernel/linux-hwe-4.15.0/arch/x86/entry/syscalls/syscall_64.tbl
 
+
+
 syscalls.h
 
 -Contains the prototypes for all of the OS system calls
 
 Path: /home/kernel/linux-hwe-4.15.0/include/linux/syscalls.h
+
+
 
 syslog
 
@@ -35,11 +43,15 @@ running correctly.
 
 Path: /var/log/syslog
 
+
+
 addTest.c
 
 -Source code that tests to make sure the new system call functions correctly. Prints sum produced by system call in user space. 
 
 Path: Desktop/addTest.c
+
+
 
 
 To compile and run program:
